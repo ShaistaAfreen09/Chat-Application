@@ -1,2 +1,2 @@
 # Chat-Application
-Basic Chat Apllication using websockets 
+Basic Chat Application using websockets ,Html,CSS and js.
